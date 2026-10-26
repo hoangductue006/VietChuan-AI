@@ -1,0 +1,6 @@
+{
+  "name": "VietChuan AI – Trợ lý chuẩn chính tả tiếng Việt",
+  "description": "Ứng dụng phi lợi nhuận hỗ trợ phát hiện lỗi chính tả, cải thiện cách dùng từ và giữ gìn sự trong sáng của tiếng Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
